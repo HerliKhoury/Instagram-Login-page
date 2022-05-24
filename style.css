@@ -56,3 +56,11 @@ body{
     border: 1px solid lightgray;
     flex-wrap: wrap;
 }
+
+.group:nth-child(1){
+    min-height: 19rem;
+}
+
+.instagram-logo{
+    height: 3rem;
+}
