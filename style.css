@@ -133,3 +133,25 @@ body{
         width: 90%;
     }
 }
+
+@media (max-width: 650px){
+    .instagram-wrapper{
+        width: 90%;
+    }
+
+    body{
+        background-color: white;
+    }
+
+    .instagram-phone{
+        display: none;
+    }
+
+    .instagram-continue{
+        width: 100%;
+    }
+    
+    .group{
+        border: 1px solid transparent;
+    }
+}
